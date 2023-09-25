@@ -1,1 +1,1 @@
- https://msp3021.github.io/goit-markup-hw-001/
+ https://msp3021.github.io/goit-markup-hw-002/
