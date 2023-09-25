@@ -154,3 +154,40 @@ h2{
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
+
+
+/*/PORTFOLIO/*/
+
+
+.filter-list{
+    list-style: none;
+}
+
+.filter{
+    color: var(--white);
+    font-size: 16px;
+    font-weight: 500px;
+    line-height: 1.5;
+    letter-spacing: 0.64px;
+}
+
+.projects{
+    list-style: none;
+}
+
+.project-title{
+    color: var(--navy-blue);
+    font-size: 20px;
+    font-weight: 500px;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+
+}
+
+.project-paragraph{
+    color: var(--grey-paragraphs);
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+
+}
