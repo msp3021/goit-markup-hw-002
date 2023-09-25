@@ -1,5 +1,8 @@
 body{
     font-family:'Roboto', sans-serif;
+    color:#434455;
+    background-color:var(--white);
+
 }
 
 :root{
@@ -12,46 +15,55 @@ body{
 
 .logo{
     font-family: 'Raleway', sans-serif;;
-    color:var(--purple);
+    color:#4D5AE5;
     font-size:18px;
-    line-height: 1.16;
-    font-weight: 800px;
+    line-height: 1.17;
+    font-weight: 800;
     letter-spacing: 0.54px;
+    text-transform: uppercase;
 
 }
 .logo-part{
     font-family: 'Raleway', sans-serif;
-    color:var(--navy-blue);
+    color:#2E2F42;
     font-size:18px;
-    line-height: 1.16;
-    font-weight: 800px;
+    line-height: 1.17;
+    font-weight: 800;
     letter-spacing: 0.54px;
+    text-transform: uppercase;
 }
-
+.link{
+    text-decoration: none;
+}
 .pages{
     
     list-style: none;
+   
 }
 .page-description{
-    color:var(--navy-blue);
+    color:#2E2F42;
     font-size: 16px;
     line-height: 1.5;
-    font-weight: 500px;
-    letter-spacing: 0.32px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    text-decoration: none;
 }
 
 .address{
     list-style: none;
+   
 }
 
 .address-description{
-    color:var(--grey-paragraphs);
+    color:#434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.32px;
+    text-decoration: none;
 }
 .title{
-color:var(--white);
+color:#FFF;
+
 
 font-size: 56px;
 font-weight: 700px;
