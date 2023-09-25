@@ -75,7 +75,8 @@ letter-spacing: 1.12px;
     font-family:'Roboto', sans-serif; ;
 width: 169px;
 height:56px;
-background-color:#404BBF;
+background-color:#4D5AE5;
+
 color:var(--white);
 font-size: 16px;
 font-weight: 500;
@@ -90,7 +91,7 @@ h2{
     color:
 }
 
-.goals{
+.goals-list{
     list-style: none;
 }
 .goals-title{
@@ -104,8 +105,8 @@ h2{
 .goals-paragraph{
     color:var(--grey-paragraphs);
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.32px;
+    line-height:1.5;
+    letter-spacing: 0.02em;
 
 }
 .what-are-we-doing-list{
@@ -116,7 +117,7 @@ h2{
     font-size: 36px;
     font-weight: 700px;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
 }
@@ -125,10 +126,13 @@ h2{
     background-color: #F4F4FD;
 
 }
+
+.our-team-box{
+    background-color: #FFFFFF ;
+}
 .our-team-title-list{
     list-style: none;
-
-}
+   }
 
 .our-team-title{
     color:var(--navy-blue);
