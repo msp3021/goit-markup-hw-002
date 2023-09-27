@@ -67,12 +67,12 @@ body{
     letter-spacing: 0.32px;
     text-decoration: none;
 }
-.address-description:hover{
+.address-description:hover,
+.address-description:focus{
     color:#404bbf;
 }
 
-.address-description:focus{
-    color:#404bbf;
+
 }
 .contact{
     font-style: normal;
@@ -102,15 +102,10 @@ line-height: 1.5;
 letter-spacing: 0.64px;
 cursor:pointer; }
 
-.hero-button:hover{
-    color:#404bbf;
-}
-
+.hero-button:hover,
 .hero-button:focus{
     color:#404bbf;
 }
-
-
 
 h2{
     color:#2E2F42;
