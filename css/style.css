@@ -50,7 +50,7 @@ body{
 .page-description:hover{
     color:#404bbf;
 }
-.page-description:visited{
+.page-description::after{
     color:#404bbf;
 
 }
@@ -71,8 +71,11 @@ body{
     color:#404bbf;
 }
 
-.address-description:visited{
+.address-description::after{
     color:#404bbf;
+}
+.contact{
+    font-style: normal;
 }
 .hero{
     background-color: #2e2f42 ;
@@ -97,14 +100,20 @@ font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.64px;
-cursor:pointer;
+cursor:pointer; }
 
-
-
-
+.hero-button:hover{
+    color:#404bbf;
 }
+
+.hero-button::after{
+    color:#404bbf;
+}
+
+
+
 h2{
-    color:
+    color:#2E2F42;
 }
 
 .goals-list{
