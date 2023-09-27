@@ -79,17 +79,16 @@ letter-spacing: 1.12px;
 }
 
 .hero-button{
-    font-family:'Roboto', sans-serif; ;
+font-family:'Roboto', sans-serif; ;
 width: 169px;
-height:56px;
 background-color:#4D5AE5;
-
-color:var(--white);
+color:#FFF;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.64px;
 cursor:pointer;
+
 
 
 
