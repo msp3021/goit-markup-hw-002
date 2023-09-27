@@ -50,7 +50,11 @@ body{
 .page-description:hover{
     color:#404bbf;
 }
-.address{
+.page-description:active{
+    color:#404bbf;
+
+}
+.list{
     list-style: none;
     font-style:normal;
    
