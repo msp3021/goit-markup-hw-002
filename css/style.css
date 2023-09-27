@@ -73,7 +73,7 @@ body{
 }
 
 
-}
+
 .contact{
     font-style: normal;
 }
@@ -217,8 +217,14 @@ h2{
     line-height: 1.5;
     letter-spacing: 0.04em;
     background-color: #F4F4FD;
+    font-family: "Roboto", sans-serif;
+    cursor:pointer;
 }
-
+.filter:hover
+.filter:after{
+    color:#FFFFFF;
+    background-color: #404bbf;
+}
 .projects{
     list-style: none;
 }
