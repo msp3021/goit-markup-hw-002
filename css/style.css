@@ -27,12 +27,12 @@ body{
    
     color:#2E2F42;}
 
-.link{
-    text-decoration: none;
-}
+
+
 .pages{
     
     list-style: none;
+    text-decoration:none;
    
 }
 .page-description{
