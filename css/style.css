@@ -71,7 +71,7 @@ body{
     color:#404bbf;
 }
 
-.address-description::after{
+.address-description:focus{
     color:#404bbf;
 }
 .contact{
@@ -93,7 +93,7 @@ letter-spacing: 1.12px;
 
 .hero-button{
 font-family:'Roboto', sans-serif; ;
-width: 169px;
+
 background-color:#4D5AE5;
 color:#FFF;
 font-size: 16px;
@@ -106,7 +106,7 @@ cursor:pointer; }
     color:#404bbf;
 }
 
-.hero-button::after{
+.hero-button:focus{
     color:#404bbf;
 }
 
@@ -233,7 +233,7 @@ h2{
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.0.02em;
+    letter-spacing:0.02em;
 
 }
 
