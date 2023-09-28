@@ -24,11 +24,10 @@ body{
 
 }
 .logo-part{
-   
-    color:#2E2F42;}
+color:#2E2F42;}
 
 .link{
-    text-decoration:none;
+text-decoration:none;
 
 }
 
@@ -50,7 +49,7 @@ body{
 .page-description:hover{
     color:#404bbf;
 }
-.page-description::after{
+.page-description:after{
     color:#404bbf;
 
 }
@@ -104,7 +103,9 @@ cursor:pointer; }
 
 .hero-button:hover,
 .hero-button:focus{
-    color:#404bbf;
+  color: #FFFFFF;
+  background-color: #404BBF;
+
 }
 
 h2{
