@@ -47,7 +47,7 @@ text-decoration:none;
 
 }
 .page-description:hover,
-.page-description:after{
+.page-description:focus{
     color:#404bbf;
 }
 
@@ -220,7 +220,7 @@ h2{
     cursor:pointer;
 }
 .filter:hover,
-.filter:after{
+.filter:focus{
     color:#FFFFFF;
     background-color: #404bbf;
 }
