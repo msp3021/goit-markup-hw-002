@@ -46,13 +46,11 @@ text-decoration:none;
     text-decoration: none;
 
 }
-.page-description:hover{
-    color:#404bbf;
-}
+.page-description:hover,
 .page-description:after{
     color:#404bbf;
-
 }
+
 .list{
     list-style: none;
     font-style:normal;
@@ -221,11 +219,13 @@ h2{
     font-family: "Roboto", sans-serif;
     cursor:pointer;
 }
-.filter:hover
+.filter:hover,
 .filter:after{
     color:#FFFFFF;
     background-color: #404bbf;
 }
+
+
 .projects{
     list-style: none;
 }
